@@ -74,7 +74,7 @@
         "maintained node versions"
     ],
     "dependencies": {
-        "@solana/web3.js": "2"
+        "@solana/web3.js": "3"
     },
     "peerDependencies": {
         "typescript": ">=5"

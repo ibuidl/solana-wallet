@@ -72,7 +72,7 @@
     ],
     "dependencies": {
         "@samui-build/core": "workspace:*",
-        "@solana/web3.js": "2"
+        "@solana/web3.js": "3"
     },
     "devDependencies": {
         "@types/react": "^19",
